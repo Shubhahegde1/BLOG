@@ -1,0 +1,2 @@
+# BLOG
+AI blog generator
